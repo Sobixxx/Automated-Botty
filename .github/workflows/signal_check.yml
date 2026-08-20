@@ -1,6 +1,5 @@
 name: SMC Testnet Bot
 
-on:
   schedule:
     - cron: "5 * * * *"
   workflow_dispatch: {}
